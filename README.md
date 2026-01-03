@@ -8,11 +8,12 @@
 <img src="https://images.ntwind.com//clipaste/mac/1.webp" alt="Clipaste - Mac #1" width="256">
 <img src="https://images.ntwind.com//clipaste/mac/2.webp" alt="Clipaste - Mac #2" width="256">
 <img src="https://images.ntwind.com//clipaste/mac/3.webp" alt="Clipaste - Mac #3" width="256">
-</p>
-<p align="center">
 <img src="https://images.ntwind.com//clipaste/mac/4.webp" alt="Clipaste - Mac #4" width="256">
 <img src="https://images.ntwind.com//clipaste/mac/5.webp" alt="Clipaste - Mac #5" width="256">
 <img src="https://images.ntwind.com//clipaste/mac/6.webp" alt="Clipaste - Mac #6" width="256">
+<img src="https://images.ntwind.com//clipaste/mac/7.webp" alt="Clipaste - Mac #7" width="256">
+<img src="https://images.ntwind.com//clipaste/mac/8.webp" alt="Clipaste - Mac #8" width="256">
+<img src="https://images.ntwind.com//clipaste/mac/9.webp" alt="Clipaste - Mac #9" width="256">
 </p>
 
 <br />
